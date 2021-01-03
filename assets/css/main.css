@@ -2,14 +2,14 @@ body{
     background-color: blue;
 }
 .whyilikeMyBoes{
-    background-color: yellow;
-}
-.howMyBoeshelpme{
-    background-color: chartreuse;
-}
-.whatMyBoesmakemedo{
     background-color: crimson;
 }
-.howmuchiloveMyBoes{
+.howMyBoeshelpme{
     background-color: darkorange;
+}
+.whatMyBoesmakemedo{
+    background-color: gold;
+}
+.howmuchiloveMyBoes{
+    background-color: chartreuse;
 }
